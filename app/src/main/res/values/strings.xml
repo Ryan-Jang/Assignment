@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RyanAssignment</string>
+    <string name="search_no_result">검색 결과가 없습니다.\n다른 키워드로 검색 해주세요.</string>
+</resources>
